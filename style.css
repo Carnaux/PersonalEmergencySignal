@@ -65,6 +65,23 @@
     color: black;
     font-size: 80px;
   }
+
+  .bt1,
+  .bt2,
+  .bt3 {
+    text-align: center;
+  }
+
+  .textSoon {
+    margin-top: 20px;
+    font-size: 80px;
+  }
+
+  .bgButtons {
+    height: 450px;
+  }
+
+
 }
 
 @media (min-width: 900px) {
@@ -89,5 +106,21 @@
   .fab {
     color: black;
     font-size: 80px;
+  }
+
+  .bgButtons {
+    height: 250px;
+  }
+
+  .bt1 {
+    text-align: right
+  }
+
+  .bt2 {
+    text-align: center
+  }
+
+  .bt3 {
+    text-align: left;
   }
 }
