@@ -36,6 +36,20 @@
   margin-bottom: 40px;
 }
 
+.bgButtons {
+  height: 250px;
+  margin-bottom: 20px;
+}
+
+.textSoon {
+  margin-top: 20px;
+  font-size: 80px;
+}
+
+.btm {
+  margin-top: 20px;
+}
+
 @media (min-width: 0px) {
   .header {
     height: 300px;
